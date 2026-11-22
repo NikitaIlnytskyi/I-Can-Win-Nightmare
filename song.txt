@@ -2,3 +2,7 @@ I am learning Git today
 Writing code along the way
 Every commit helps me grow
 There is more for me to know
+Now my changes are online
+Every step is working fine
+I can push and I can pull
+Learning Git is really cool
