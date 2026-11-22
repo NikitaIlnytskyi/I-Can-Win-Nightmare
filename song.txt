@@ -1,0 +1,4 @@
+I am learning Git today
+Writing code along the way
+Every commit helps me grow
+There is more for me to know
